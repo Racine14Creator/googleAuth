@@ -14,6 +14,24 @@ pnpm dev
 bun dev
 ```
 
+
+```js
+GOOGLE_CLIENT_ID = xxxx
+GOOGLE_CLIENT_SECRET = xxxxxxx
+
+NEXTHAUTH_URL = http://localhost:3000
+
+NEXTHAUTH_SECRET = Tu peux ajouter une texte de ton choix
+
+MONGO_USERNAME = ton nom d\'utilisateur
+
+MONGO_PASS = xxxx ton mot de pass
+
+MONGO_URL = mongodb+srv://MONGO_USERNAME:MONGO_PASS@yourname.gp56zlm.mongodb.net/database here
+
+
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
@@ -34,3 +52,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+#demo [click here](https://google-auth-rho.vercel.app/) to take a look.
